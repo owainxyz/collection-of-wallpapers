@@ -2,6 +2,22 @@
 
 79 wallpapers, sorted by category. Click a preview for the full-resolution file.
 
+## Usage
+
+Download a single image from its preview, or clone the whole collection:
+
+```sh
+git clone --depth 1 https://github.com/owainxyz/collection-of-wallpapers
+```
+
+Full-resolution files are in `wallpapers/`. Previews in `previews/` are 480×270 JPEG thumbnails.
+
+## Credits
+
+The gradients are original to this collection. Photographs and artwork belong to their original creators and are collected here for personal use. If you own an image and would like it credited or removed, please [open an issue](https://github.com/owainxyz/collection-of-wallpapers/issues).
+
+## Categories
+
 | Category | Count |
 | --- | --- |
 | [Gradients / Simple](#gradients--simple) | 14 |
